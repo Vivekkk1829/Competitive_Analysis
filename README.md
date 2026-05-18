@@ -6,7 +6,6 @@ A total of **12 business questions** are answered through modular SQL views, raw
 ## 📁 Project Structure
 * **views_script.sql** → All views created to answer business questions
 * **raw_queries.sql** → Raw SQL queries without using views
-* **Zepto_vs_Blinkit_SQL_Project_Adhish.pptx** → Final PPT showing key insights
 * **README.md** → This file 😊
 
 ## 📊 Dataset Overview
@@ -36,7 +35,6 @@ A total of **12 business questions** are answered through modular SQL views, raw
 ## ⚙️ Technologies Used
 * **Excel** – Data cleaning, quantity column generation
 * **MySQL** – Joins, Aggregations, Window Functions, Views
-* **PowerPoint** – Final insight presentation (13-slide deck)
 * **Power BI** – For dashboard-level visualization
 
 ## 🧠 Key SQL Concepts Applied
